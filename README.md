@@ -231,7 +231,7 @@ Your Name
 
 ## 📧 Contact
 
-For questions or feedback, please reach out via [email](mailto:your.email@example.com) or open an issue on GitHub.
+For questions or feedback, please reach out via [email](mailto:sakshamnoida37@gmail.com) or open an issue on GitHub.
 
 ---
 
