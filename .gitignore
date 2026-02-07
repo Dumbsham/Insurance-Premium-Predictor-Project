@@ -1,0 +1,18 @@
+# Data (don't commit raw data)
+data/raw/*.csv
+data/processed/*.csv
+
+# Models (optional - commit if you want to share trained models)
+# models/*.pkl
+
+# Virtual environments
+.venv/
+venv/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
