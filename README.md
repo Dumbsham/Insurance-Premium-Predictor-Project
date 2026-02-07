@@ -221,12 +221,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/saksham14sharma)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/Dumbsham)
+- GitHub: [Saksham Sharma](https://github.com/saksham14sharma)
+- LinkedIn: [Saksham Sharma](https://linkedin.com/in/Dumbsham)
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Kaggle Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - Inspiration from various machine learning tutorials and courses
 
 ## 📧 Contact
